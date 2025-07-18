@@ -1,4 +1,4 @@
-# my-inventory<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="lo">
 <head>
     <meta charset="UTF-8">
@@ -207,4 +207,4 @@
     <script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script>
     <script src="app.js"></script>
 </body>
-</html>-app
+</html>
